@@ -11,3 +11,8 @@ In this project, I build a tasks to do list and added an "Add Task button which 
 ## Screenshot
 
 ![Taskinator-Mock-Up](https://user-images.githubusercontent.com/104699408/172150212-24e7f448-b5b3-434e-9c7d-6efbbdb89dd2.gif)
+
+## URL Link of Deployed Application
+If you would like to try the Taskinator yourself, please click the link below!
+
+<a href="https://stephont.github.io/taskinator/">Taskinator</a>
