@@ -1,3 +1,3 @@
-# Taskinator / Using a Kanban board to display progressions in tasks.
+# Taskinator
 
 Using a Kanban board to display progressions in tasks.
